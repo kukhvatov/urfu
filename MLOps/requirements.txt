@@ -1,5 +1,7 @@
-scikit-learn==1.6.1
-mlflow==2.21.3
-joblib==1.4.2
-numpy==2.2.4
-pandas==2.2.3
+apache-airflow==2.5.1
+apache-airflow-providers-python==3.1.0
+pandas==1.5.3
+scikit-learn==1.2.2
+mlflow==2.3.1
+numpy==1.24.2
+joblib==1.2.0
